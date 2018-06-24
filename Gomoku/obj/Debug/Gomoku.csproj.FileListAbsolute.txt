@@ -1,0 +1,14 @@
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.csprojAssemblyReference.cache
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\App.g.cs
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\Gomoku_MarkupCompile.cache
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.g.resources
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.cache
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\Views\MainWindow.g.cs
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\Views\MainWindow.baml
