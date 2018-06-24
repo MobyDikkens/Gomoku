@@ -3,69 +3,29 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        mc:Ignorable="d"
+        xmlns:vm="clr-namespace:Gomoku.ViewModels"
         WindowStyle="SingleBorderWindow"
         ResizeMode="NoResize"
         Title="MainWindow" Height="500" Width="500">
     
-    <!--Define special style for the game field-->
+
     <Window.Resources>
+        <!--Define special style for the game field-->
         <Style x:Key="GameFieldStyle" TargetType="Grid">
             <Setter Property="ShowGridLines" Value="True"/>
             <Setter Property="Background" Value="DimGray"/>
         </Style>
+        
+        <!--Define View Model for the entire View-->
+        <vm:MainWindowVM x:Key="MainWindowVm"/>
+
     </Window.Resources>
 
 
 
     <Grid Style="{StaticResource GameFieldStyle}">
         
-        <!--Define 19 columns-->
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-        </Grid.ColumnDefinitions>
-        
-        <!--Define 19 rows-->
-        <Grid.RowDefinitions>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-        </Grid.RowDefinitions>
+
 
     </Grid>
 </Window>

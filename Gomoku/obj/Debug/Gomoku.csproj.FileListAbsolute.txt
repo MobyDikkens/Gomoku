@@ -12,3 +12,5 @@ C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\Go
 C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
 C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\Views\MainWindow.g.cs
 C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\Views\MainWindow.baml
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Gomoku\Gomoku\obj\Debug\Gomoku_MarkupCompile.lref
